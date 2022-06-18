@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sinan/Projects/VSCodeIntroUI/IntroUI/IntroUI.csproj": {}
+  },
+  "projects": {
+    "/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/IntroLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/IntroLibrary.csproj",
+        "projectName": "IntroLibrary",
+        "projectPath": "/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/IntroLibrary.csproj",
+        "packagesPath": "/home/sinan/.nuget/packages/",
+        "outputPath": "/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sinan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sinan/Projects/VSCodeIntroUI/IntroUI/IntroUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sinan/Projects/VSCodeIntroUI/IntroUI/IntroUI.csproj",
+        "projectName": "IntroUI",
+        "projectPath": "/home/sinan/Projects/VSCodeIntroUI/IntroUI/IntroUI.csproj",
+        "packagesPath": "/home/sinan/.nuget/packages/",
+        "outputPath": "/home/sinan/Projects/VSCodeIntroUI/IntroUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sinan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/IntroLibrary.csproj": {
+                "projectPath": "/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/IntroLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

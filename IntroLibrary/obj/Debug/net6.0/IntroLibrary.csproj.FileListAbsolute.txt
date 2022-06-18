@@ -1,0 +1,12 @@
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/bin/Debug/net6.0/IntroLibrary.deps.json
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/bin/Debug/net6.0/IntroLibrary.dll
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/bin/Debug/net6.0/IntroLibrary.pdb
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/IntroLibrary.csproj.AssemblyReference.cache
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/IntroLibrary.AssemblyInfoInputs.cache
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/IntroLibrary.AssemblyInfo.cs
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/IntroLibrary.dll
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/refint/IntroLibrary.dll
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/IntroLibrary.pdb
+/home/sinan/Projects/VSCodeIntroUI/IntroLibrary/obj/Debug/net6.0/ref/IntroLibrary.dll

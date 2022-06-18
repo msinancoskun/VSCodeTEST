@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroLibrary", "IntroLibrary\IntroLibrary.csproj", "{FF5D489B-C80E-4B0E-8CB0-13B86E9A7A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroUI", "IntroUI\IntroUI.csproj", "{E7844002-C137-46FE-9544-A5162086445E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5D489B-C80E-4B0E-8CB0-13B86E9A7A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5D489B-C80E-4B0E-8CB0-13B86E9A7A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5D489B-C80E-4B0E-8CB0-13B86E9A7A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5D489B-C80E-4B0E-8CB0-13B86E9A7A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7844002-C137-46FE-9544-A5162086445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7844002-C137-46FE-9544-A5162086445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7844002-C137-46FE-9544-A5162086445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7844002-C137-46FE-9544-A5162086445E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
